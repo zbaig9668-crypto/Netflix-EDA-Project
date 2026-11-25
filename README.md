@@ -23,5 +23,6 @@ The dashboard expects `netflix_titles.csv` in the same folder as `app.py`.
 https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Submission links
-- Streamlit app: https://netflix-eda-project-zarabaig.streamlit.app/
+https://netflix-eda-project-zarabaig.streamlit.app/
+
 
